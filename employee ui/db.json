@@ -1,0 +1,45 @@
+{
+  "employee": [
+    {
+      "name": "anil kuamr",
+      "email": "anil@gmail.com",
+      "phone": "0000000000000000",
+      "id": "1b81"
+    },
+    {
+      "id": "fb7f",
+      "name": "Kalyan Kumar",
+      "email": "kalyan@gmail.com",
+      "phone": "7785962247",
+      "active": true
+    },
+    {
+      "id": "8828",
+      "name": "manoj",
+      "email": "manoj@gmail.com",
+      "phone": "234567898",
+      "active": true
+    },
+    {
+      "id": "039b",
+      "name": "esdfghjbn",
+      "email": "dsdfg@fg.com",
+      "phone": "98745612",
+      "active": true
+    },
+    {
+      "id": "b73e",
+      "name": "sfhagbn",
+      "email": "sxghbzn@asdfs.com",
+      "phone": "784596987",
+      "active": true
+    },
+    {
+      "id": "125d",
+      "name": "mannu",
+      "email": "mannu@gamil.com",
+      "phone": "7788558995",
+      "active": true
+    }
+  ]
+}
